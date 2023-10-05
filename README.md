@@ -99,4 +99,4 @@ This course and its content are licensed under the Creative Commons Attribution-
 [![Made with ❤️ by Kunal Arya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Kunal%20Arya-blue)](https://github.com/kunalarya873)
 ```
 
-Replace `your-banner-image-url`, `your-logo-image-url`, and other placeholders with actual images and content relevant to your course. This README provides an engaging and informative introduction to your Django course, making it attractive to potential students.
+git clone https://github.com/kunalarya873/Python-Django-The-Complete-Django-Web-Development-Course/tree/main
