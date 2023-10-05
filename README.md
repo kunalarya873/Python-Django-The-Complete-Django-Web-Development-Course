@@ -93,7 +93,7 @@ This course and its content are licensed under the Creative Commons Attribution-
 ---
 
 <p align="center">
-  <img src="your-logo-image-url" alt="Course Logo" width="100">
+  <img src="https://ibb.co/0XtNh55" alt="Course Logo" width="100">
 </p>
 
 [![Made with ❤️ by Kunal Arya](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Kunal%20Arya-blue)](https://github.com/kunalarya873)
