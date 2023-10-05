@@ -78,7 +78,7 @@ This course is structured to be self-paced, allowing you to learn at your own sp
 <!-- Instructors Section -->
 ## Instructors
 
-Our team of experienced Django developers and instructors are dedicated to your success. Meet our instructors [here](github.com/kunalarya873).
+Our team of experienced Django developers and instructors are dedicated to your success. Meet our instructors [here](kunalarya873).
 
 <!-- Contribution Section -->
 ## Contribution
