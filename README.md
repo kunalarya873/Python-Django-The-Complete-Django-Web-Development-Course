@@ -1,6 +1,6 @@
 <!-- Add your project banner here -->
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon-thumbnail.png" alt="Python Django Course">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="Python Django Course">
 </p>
 
 <!-- Project Title -->
