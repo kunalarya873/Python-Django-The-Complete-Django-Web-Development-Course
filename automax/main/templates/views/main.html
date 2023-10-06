@@ -1,0 +1,20 @@
+{% extends 'base/base.html' %}
+{% block 'body' %}
+    <div class="d-flex w-100 h-100 p-3 mx-auto flex-column main-content">
+        <video src="{% static 'videos/bg.mp4' %}" type='video/mp4'>
+
+        </video>
+            <div class="d-flex w-100 h-100 p-3 mx-auto flex-column main-content">
+            <header class ='mb-auto'>
+
+            </header>
+            </div>
+    </div>
+{% endblock %}
+
+{% block 'footer' %}
+<footer class="mt-auto text-white-50">
+            <p>Copyright © {% now 'Y' %} <a href="" class="text-white">AutoMax</a> by <a href="https://preneure.com"
+                    class="text-white">Preneure.com</a></p>
+        </footer>
+{% endblock %}
