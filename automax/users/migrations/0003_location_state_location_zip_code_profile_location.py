@@ -2,7 +2,6 @@
 
 from django.db import migrations, models
 import django.db.models.deletion
-import localflavor.us.models
 
 
 class Migration(migrations.Migration):
@@ -15,12 +14,12 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='location',
             name='state',
-            field=localflavor.us.models.USStateField(default='NY', max_length=2),
+            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='users.city'),
         ),
         migrations.AddField(
             model_name='location',
             name='zip_code',
-            field=localflavor.us.models.USZipCodeField(blank=True, max_length=10),
+            field=models.CharField(max_length=15),
         ),
         migrations.AddField(
             model_name='profile',
